@@ -19,12 +19,12 @@
 <resources>
     <!-- Account setup screens -->
     <color name="account_setup_headline_color">#5E802B</color>
-    <color name="account_setup_info_text_color">#000000</color>
-    <color name="account_setup_label_text_color">#666666</color>
-    <color name="account_setup_divider_color">#CCCCCC</color>
+    <color name="account_setup_info_text_color">#ffffff</color>
+    <color name="account_setup_label_text_color">#999999</color>
+    <color name="account_setup_divider_color">#333333</color>
 
     <!-- Standard text colors -->
-    <color name="text_secondary_color">#666666</color>
+    <color name="text_secondary_color">#999999</color>
 
     <!-- Account color chips on combined view -->
     <color name="combined_view_account_color_1">#ff71aea7</color>
@@ -37,6 +37,6 @@
     <color name="combined_view_account_color_8">#ff738359</color>
     <color name="combined_view_account_color_9">#ff9d50a4</color>
 
-    <color name="button_text_color">#777777</color>
-    <color name="button_text_disabled_color">#cccccc</color>
+    <color name="button_text_color">#888888</color>
+    <color name="button_text_disabled_color">#333333</color>
 </resources>
