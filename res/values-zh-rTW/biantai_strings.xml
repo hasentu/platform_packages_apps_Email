@@ -38,7 +38,7 @@
            $$$$$$                    $$$
                                    $$$$
 -->
-<resourcesxmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- On Settings screen, "notify every message" checkbox label -->
     <!-- 设置界面, "通知每一条消息"勾选框标签 -->
